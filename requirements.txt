@@ -1,0 +1,10 @@
+Flask
+flask-cors
+firebase-admin
+pyrebase4
+cryptography
+requests
+gunicorn
+# transformers
+# torch
+# scikit-learn
